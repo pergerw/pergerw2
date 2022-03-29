@@ -20,7 +20,7 @@ Tenho o sonho de aprender linguagens de programação 💻
   <a href="https://www.instagram.com/pergerw_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanni-cuba-perger-a5114219b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pergerw/pergerw/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
